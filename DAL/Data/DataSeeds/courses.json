@@ -1,0 +1,388 @@
+[
+  //ASP.Net Core
+
+  {
+    "Course_name": "C# Fundamentals for Absolute Beginners (Microsoft)",
+    "Course_type": "ASp.net",
+    "Course_link": "https://learn.microsoft.com/en-us/shows/csharp-fundamentals-for-absolute-beginners/",
+    "Course_level": 1,
+    "Track_id": 1
+  },
+
+  {
+    "Course_name": "C# Class Development",
+    "Course_type": "ASp.net",
+    "Course_link": "https://www.coursera.org/learn/csharp-class-development",
+    "Course_level": 1,
+    "Track_id": 1
+  },
+  {
+    "Course_name": "Object Oriented Development using C#",
+    "Course_type": "ASp.net",
+    "Course_link": "https://www.coursera.org/learn/oo-development-using-c-sharp",
+    "Course_level": 1,
+    "Track_id": 1
+  },
+  {
+    "Course_name": "Object Oriented Development using C#",
+    "Course_type": "ASp.net",
+    "Course_link": "https://www.edx.org/learn/aspnet",
+    "Course_level": 1,
+    "Track_id": 1
+  },
+  {
+    "Course_name": "Introduction to .NET Framework (Pluralsight)",
+    "Course_type": "ASp.net",
+    "Course_link": "https://learn.microsoft.com/en-us/aspnet/core/getting-started/?view=aspnetcore-7.0&tabs=windows",
+    "Course_level": 1,
+    "Track_id": 1
+  },
+  {
+    "Course_name": "WPF Tutorial for Beginners (Guru99)",
+    "Course_type": "ASp.net",
+    "Course_link": "https://www.guru99.com/wpf-tutorial.html",
+    "Course_level": 1,
+    "Track_id": 1
+  },
+  {
+    "Course_name": ".NET Fundamentals",
+    "Course_type": "ASp.net",
+    "Course_link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/net-fundamentals",
+    "Course_level": 1,
+    "Track_id": 1
+  },
+  {
+    "Course_name": ".NET Programming",
+    "Course_type": "ASp.net",
+    "Course_link": "https://simplilearn.com/dot-net-programming-certification-training-course",
+    "Course_level": 1,
+    "Track_id": 1
+  },
+  {
+    "Course_name": "ASP.NET Core Intermediate (Microsoft)",
+    "Course_type": "ASp.net",
+    "Course_link": "https://learn.microsoft.com/en-us/shows/asp.net-core---intermediate/asp.net-core-internals",
+    "Course_level": 2,
+    "Track_id": 1
+  },
+  {
+    "Course_name": "C# Windows Form Application Tutorial",
+    "Course_type": "ASp.net",
+    "Course_link": "https://rb.gy/trh7z",
+    "Course_level": 2,
+    "Track_id": 1
+  },
+  {
+    "Course_name": "Entity Framework Core: Getting Started",
+    "Course_type": "ASp.net",
+    "Course_link": "https://learn.microsoft.com/en-us/shows/entity-framework-core-101/getting-started-with-entity-framework-core",
+    "Course_level": 2,
+    "Track_id": 1
+  },
+  {
+    "Course_name": "Exploring ASP.NET Core:",
+    "Course_type": "ASp.net",
+    "Course_link": "https://alison.com/course/exploring-asp-net-core-intermediate",
+    "Course_level": 2,
+    "Track_id": 1
+  },
+  {
+    "Course_name": "ASP.NET Core Advanced (Microsoft)",
+    "Course_type": "ASp.net",
+    "Course_link": "https://learn.microsoft.com/en-us/shows/asp.net-core---advanced/advanced-configuration",
+    "Course_level": 3,
+    "Track_id": 1
+  },
+  {
+    "Course_name": "Mastering Windows Communication Foundation (WCF)",
+    "Course_type": "ASp.net",
+    "Course_link": "https://codevalue.com/courses/mastering-windows-communication-foundation-wcf/",
+    "Course_level": 3,
+    "Track_id": 1
+  },
+  {
+    "Course_name": "Advanced ASP NET Core",
+    "Course_type": "ASp.net",
+    "Course_link": "https://www.mindluster.com/certificate/5779",
+    "Course_level": 3,
+    "Track_id": 1
+  },
+  {
+    "Course_name": "ASP.NET: Create News Website",
+    "Course_type": "ASp.net",
+    "Course_link": "https://coursesity.com/course-detail/aspnet-create-news-website-",
+    "Course_level": 3,
+    "Track_id": 1
+  },
+  {
+    "Course_name": "ASP.NET Core MVC, Quick and Practical",
+    "Course_type": "ASp.net",
+    "Course_link": "https://coursesity.com/course-detail/asp-net-core-mvc-quick-and-practical",
+    "Course_level": 3,
+    "Track_id": 1
+  },
+
+  //AI
+
+
+
+  {
+    "Course_name": "Machine Learning Crash Course with TensorFlow APIs",
+    "Course_type": "AI",
+    "Course_link": "https://developers.google.com/machine-learning/crash-course",
+    "Course_level": 1,
+    "Track_id": 2
+  },
+  {
+    "Course_name": "Introduction to Artificial Intelligence (IBM)",
+    "Course_type": "AI",
+    "Course_link": "https://www.ibm.com/design/ai/basics/ai/",
+    "Course_level": 1,
+    "Track_id": 2
+  },
+  {
+    "Course_name": "Introduction to Artificial Intelligence (AI)",
+    "Course_type": "AI",
+    "Course_link": "https://www.coursera.org/learn/introduction-to-ai",
+    "Course_level": 1,
+    "Track_id": 2
+  },
+  {
+    "Course_name": "Python for Data Science (edX)",
+    "Course_type": "AI",
+    "Course_link": "https://youtu.be/McT0oyqqflc",
+    "Course_level": 1,
+    "Track_id": 2
+  },
+  {
+    "Course_name": "Intro to Machine Learning with PyTorch (Udacity)",
+    "Course_type": "AI",
+    "Course_link": "https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229",
+    "Course_level": 1,
+    "Track_id": 2
+  },
+  {
+    "Course_name": "Artificial Intelligence Foundations: Machine Learning (LinkedIn Learning)",
+    "Course_type": "AI",
+    "Course_link": "https://www.linkedin.com/learning/artificial-intelligence-foundations-machine-learning",
+    "Course_level": 1,
+    "Track_id": 2
+  },
+  {
+    "Course_name": "Advanced Machine Learning Specialization by coursera",
+    "Course_type": "AI",
+    "Course_link": "https://www.coursera.org/learn/advanced-machine-learning-signal-processing",
+    "Course_level": 2,
+    "Track_id": 2
+  },
+
+  {
+    "Course_name": "Advanced Machine Learning Specialization by coursera",
+    "Course_type": "AI",
+    "Course_link": "https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp",
+    "Course_level": 2,
+    "Track_id": 2
+  },
+  {
+    "Course_name": " Applied Machine Learning by Udacity",
+    "Course_type": "AI",
+    "Course_link": "https://www.udacity.com/course/machine-learning--ud262",
+    "Course_level": 2,
+    "Track_id": 2
+  },
+  {
+    "Course_name": "Deep Learning by Udacity",
+    "Course_type": "AI",
+    "Course_link": "https://www.udacity.com/course/deep-learning-nanodegree--nd101",
+    "Course_level": 2,
+    "Track_id": 2
+  },
+  {
+    "Course_name": "Machine Learning Engineer Nanodegree by Udacity",
+    "Course_type": "AI",
+    "Course_link": "https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t-ir",
+    "Course_level": 2,
+    "Track_id": 2
+  },
+  {
+    "Course_name": "Advanced Machine Learning Specialization by Coursera",
+    "Course_type": "AI",
+    "Course_link": "https://www.coursera.org/specializations/machine-learning-introduction",
+    "Course_level": 2,
+    "Track_id": 2
+  },
+  {
+    "Course_name": "Data Science and Machine Learning Bootcamp with R by Udemy",
+    "Course_type": "AI",
+    "Course_link": "https://www.udemy.com/course/data-science-and-machine-learning-bootcamp-with-r/",
+    "Course_level": 2,
+    "Track_id": 2
+  },
+  {
+    "Course_name": "Machine Learning for Data Science by edX",
+    "Course_type": "AI",
+    "Course_link": "https://rb.gy/bopi",
+    "Course_level": 2,
+    "Track_id": 2
+  },
+  {
+    "Course_name": "Introduction to Statistical Learning by Stanford University",
+    "Course_type": "AI",
+    "Course_link": "https://online.stanford.edu/courses/stats216-introduction-statistical-learning",
+    "Course_level": 2,
+    "Track_id": 2
+  },
+  {
+    "Course_name": "Deep Learning (Udacity)",
+    "Course_type": "AI",
+    "Course_link": "https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187",
+    "Course_level": 3,
+    "Track_id": 2
+  },
+  {
+    "Course_name": "Machine Learning with TensorFlow on Google Cloud Platform (Coursera):",
+    "Course_type": "AI",
+    "Course_link": "https://www.coursera.org/specializations/machine-learning-tensorflow-gcp",
+    "Course_level": 3,
+    "Track_id": 2
+  },
+  {
+    "Course_name": "DNeural Networks and Deep Learning (Coursera)",
+    "Course_type": "AI",
+    "Course_link": "https://www.coursera.org/learn/neural-networks-deep-learning",
+    "Course_level": 3,
+    "Track_id": 2
+  },
+  {
+    "Course_name": "Applied Data Science with Python Specialization (Coursera)",
+    "Course_type": "AI",
+    "Course_link": "https://www.coursera.org/specializations/data-science-python",
+    "Course_level": 3,
+    "Track_id": 2
+  },
+  {
+    "Course_name": "Convolutional Neural Networks (Coursera)",
+    "Course_type": "AI",
+    "Course_link": "https://www.coursera.org/learn/convolutional-neural-networks",
+    "Course_level": 3,
+    "Track_id": 2
+  },
+
+
+
+
+  //Angular 
+  {
+    "Course_name": "Angular Getting Started (Pluralsight)",
+    "Course_type": "Angular",
+    "Course_link": "https://www.pluralsight.com/courses/angular-2-getting-started-update",
+    "Course_level": 1,
+    "Track_id": 3
+  },
+  {
+    "Course_name": "Angular Essential Training (LinkedIn Learning)",
+    "Course_type": "Angular",
+    "Course_link": "https://www.linkedin.com/learning/angular-essential-training-2",
+    "Course_level": 1,
+    "Track_id": 3
+  },
+  {
+    "Course_name": "Angular Crash Course for Beginners (Traversy Media)",
+    "Course_type": "Angular",
+    "Course_link": "https://www.youtube.com/watch?v=3dHNOWTI7H8",
+    "Course_level": 1,
+    "Track_id": 3
+  },
+  {
+    "Course_name": "Angular Tutorial for Beginners (Academind)",
+    "Course_type": "Angular",
+    "Course_link": "https://www.youtube.com/watch?v=htPYk6QxacQ",
+    "Course_level": 1,
+    "Track_id": 3
+  },
+  {
+    "Course_name": "Angular Fundamentals",
+    "Course_type": "Angular",
+    "Course_link": "https://www.udemy.com/course/angular-fundamental-course-for-absolute-beginners-2022/",
+    "Course_level": 1,
+    "Track_id": 3
+  },
+  {
+    "Course_name": "Angular 7 Tutorial for Beginners (Programming with Mosh)",
+    "Course_type": "Angular",
+    "Course_link": "https://youtu.be/k5E2AVpwsko",
+    "Course_level": 1,
+    "Track_id": 3
+  },
+  {
+    "Course_name": "Advanced Angular (LinkedIn Learning)",
+    "Course_type": "Angular",
+    "Course_link": "https://rb.gy/oo9sf",
+    "Course_level": 2,
+    "Track_id": 3
+  },
+  {
+    "Course_name": "Angular 8 Essential Training (LinkedIn Learning)",
+    "Course_type": "Angular",
+    "Course_link": "https://www.linkedin.com/learning/angular-essential-training-2",
+    "Course_level": 2,
+    "Track_id": 3
+  },
+  {
+    "Course_name": "Angular 9 Essential",
+    "Course_type": "Angular",
+    "Course_link": "https://www.udemy.com/course/angular-9-essencial/",
+    "Course_level": 2,
+    "Track_id": 3
+  },
+  {
+    "Course_name": "Angular FREE Masterclass - COVID-19 Tracker App - Part 1",
+    "Course_type": "Angular",
+    "Course_link": "https://www.udemy.com/course/angular-free-masterclass-part-one/",
+    "Course_level": 2,
+    "Track_id": 3
+  },
+  {
+    "Course_name": "Angular FREE Masterclass - COVID-19 Tracker App - Part 2",
+    "Course_type": "Angular",
+    "Course_link": "https://www.udemy.com/course/angular-free-masterclass-part-two/",
+    "Course_level": 2,
+    "Track_id": 3
+  },
+  {
+    "Course_name": "Angular FREE Masterclass - COVID-19 Tracker App - Part 3",
+    "Course_type": "Angular",
+    "Course_link": "https://www.udemy.com/course/angular-free-masterclass-part-three/",
+    "Course_level": 2,
+    "Track_id": 3
+  },
+  {
+    "Course_name": "RxJS unit testing in Angular application. The whole picture",
+    "Course_type": "Angular",
+    "Course_link": "https://www.udemy.com/course/rxjs-unit-testing-in-angular-application-the-whole-picture/",
+    "Course_level": 3,
+    "Track_id": 3
+  },
+  {
+    "Course_name": "Advanced AngularJS Workflows",
+    "Course_type": "Angular",
+    "Course_link": "https://www.pluralsight.com/courses/advanced-angular-workflows",
+    "Course_level": 3,
+    "Track_id": 3
+  },
+  {
+    "Course_name": "NGRX angular nativescript",
+    "Course_type": "Angular",
+    "Course_link": "https://www.udemy.com/course/ngrx-angular-nativescript/",
+    "Course_level": 3,
+    "Track_id": 3
+  },
+  {
+    "Course_name": "Angular: Overcoming Common Obstacles",
+    "Course_type": "Angular",
+    "Course_link": "https://www.udemy.com/course/angular-overcoming-common-obstacles/",
+    "Course_level": 3,
+    "Track_id": 3
+  }
+
+]

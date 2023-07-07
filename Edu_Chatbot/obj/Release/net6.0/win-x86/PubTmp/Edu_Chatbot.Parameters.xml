@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="samaralgammal-001-site1" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\route\\API\\Graduation_project\\Edu_Chatbot\\obj\\Release\\net6\.0\\win-x86\\PubTmp\\Out\\$" />
+  </parameter>
+  <parameter name="DAL.EduChatbot_DB_Context" description="" value="Data Source=SQL5106.site4now.net;Initial Catalog=db_a9b333_educhatbotdb;User Id=db_a9b333_educhatbotdb_admin;Password=Samar@19122000" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^D:\\route\\API\\Graduation_project\\Edu_Chatbot\\obj\\Release\\net6\.0\\win-x86\\PubTmp\\EFSQLScripts\\DAL\.EduChatbot_DB_Context\.sql$" />
+  </parameter>
+  <parameter name="DAL.Entities.Identity.AppIdentityDbContext" description="" value="Data Source=SQL5106.site4now.net;Initial Catalog=db_a9b333_educhatbotdb;User Id=db_a9b333_educhatbotdb_admin;Password=Samar@19122000" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^D:\\route\\API\\Graduation_project\\Edu_Chatbot\\obj\\Release\\net6\.0\\win-x86\\PubTmp\\EFSQLScripts\\DAL\.Entities\.Identity\.AppIdentityDbContext\.sql$" />
+  </parameter>
+</parameters>

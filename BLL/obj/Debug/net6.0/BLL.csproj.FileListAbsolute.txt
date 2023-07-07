@@ -1,0 +1,120 @@
+D:\Graduation_project\BLL\bin\Debug\net6.0\BLL.deps.json
+D:\Graduation_project\BLL\bin\Debug\net6.0\BLL.dll
+D:\Graduation_project\BLL\bin\Debug\net6.0\BLL.pdb
+D:\Graduation_project\BLL\bin\Debug\net6.0\DAL.dll
+D:\Graduation_project\BLL\bin\Debug\net6.0\DAL.pdb
+D:\Graduation_project\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+D:\Graduation_project\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Graduation_project\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+D:\Graduation_project\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+D:\Graduation_project\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+D:\Graduation_project\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+D:\Graduation_project\BLL\obj\Debug\net6.0\BLL.dll
+D:\Graduation_project\BLL\obj\Debug\net6.0\refint\BLL.dll
+D:\Graduation_project\BLL\obj\Debug\net6.0\BLL.pdb
+D:\Graduation_project\BLL\obj\Debug\net6.0\ref\BLL.dll
+D:\route\API\API_ITI\Graduation_project\BLL\bin\Debug\net6.0\BLL.deps.json
+D:\route\API\API_ITI\Graduation_project\BLL\bin\Debug\net6.0\BLL.dll
+D:\route\API\API_ITI\Graduation_project\BLL\bin\Debug\net6.0\BLL.pdb
+D:\route\API\API_ITI\Graduation_project\BLL\bin\Debug\net6.0\DAL.dll
+D:\route\API\API_ITI\Graduation_project\BLL\bin\Debug\net6.0\DAL.pdb
+D:\route\API\API_ITI\Graduation_project\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+D:\route\API\API_ITI\Graduation_project\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\route\API\API_ITI\Graduation_project\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+D:\route\API\API_ITI\Graduation_project\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+D:\route\API\API_ITI\Graduation_project\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+D:\route\API\API_ITI\Graduation_project\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+D:\route\API\API_ITI\Graduation_project\BLL\obj\Debug\net6.0\BLL.dll
+D:\route\API\API_ITI\Graduation_project\BLL\obj\Debug\net6.0\refint\BLL.dll
+D:\route\API\API_ITI\Graduation_project\BLL\obj\Debug\net6.0\BLL.pdb
+D:\route\API\API_ITI\Graduation_project\BLL\obj\Debug\net6.0\ref\BLL.dll
+D:\graduationProject\Graduation_project\BLL\bin\Debug\net6.0\BLL.deps.json
+D:\graduationProject\Graduation_project\BLL\bin\Debug\net6.0\BLL.dll
+D:\graduationProject\Graduation_project\BLL\bin\Debug\net6.0\BLL.pdb
+D:\graduationProject\Graduation_project\BLL\bin\Debug\net6.0\DAL.dll
+D:\graduationProject\Graduation_project\BLL\bin\Debug\net6.0\DAL.pdb
+D:\graduationProject\Graduation_project\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+D:\graduationProject\Graduation_project\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\graduationProject\Graduation_project\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+D:\graduationProject\Graduation_project\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+D:\graduationProject\Graduation_project\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+D:\graduationProject\Graduation_project\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+D:\graduationProject\Graduation_project\BLL\obj\Debug\net6.0\BLL.dll
+D:\graduationProject\Graduation_project\BLL\obj\Debug\net6.0\refint\BLL.dll
+D:\graduationProject\Graduation_project\BLL\obj\Debug\net6.0\BLL.pdb
+D:\graduationProject\Graduation_project\BLL\obj\Debug\net6.0\ref\BLL.dll
+D:\route\API\Graduation_project\Graduation_project\BLL\bin\Debug\net6.0\BLL.deps.json
+D:\route\API\Graduation_project\Graduation_project\BLL\bin\Debug\net6.0\BLL.dll
+D:\route\API\Graduation_project\Graduation_project\BLL\bin\Debug\net6.0\BLL.pdb
+D:\route\API\Graduation_project\Graduation_project\BLL\bin\Debug\net6.0\DAL.dll
+D:\route\API\Graduation_project\Graduation_project\BLL\bin\Debug\net6.0\DAL.pdb
+D:\route\API\Graduation_project\Graduation_project\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+D:\route\API\Graduation_project\Graduation_project\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\route\API\Graduation_project\Graduation_project\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+D:\route\API\Graduation_project\Graduation_project\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+D:\route\API\Graduation_project\Graduation_project\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+D:\route\API\Graduation_project\Graduation_project\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+D:\route\API\Graduation_project\Graduation_project\BLL\obj\Debug\net6.0\BLL.dll
+D:\route\API\Graduation_project\Graduation_project\BLL\obj\Debug\net6.0\refint\BLL.dll
+D:\route\API\Graduation_project\Graduation_project\BLL\obj\Debug\net6.0\BLL.pdb
+D:\route\API\Graduation_project\Graduation_project\BLL\obj\Debug\net6.0\ref\BLL.dll
+C:\Users\reham\Downloads\Graduation_project\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\Users\reham\Downloads\Graduation_project\BLL\bin\Debug\net6.0\BLL.dll
+C:\Users\reham\Downloads\Graduation_project\BLL\bin\Debug\net6.0\BLL.pdb
+C:\Users\reham\Downloads\Graduation_project\BLL\bin\Debug\net6.0\DAL.dll
+C:\Users\reham\Downloads\Graduation_project\BLL\bin\Debug\net6.0\DAL.pdb
+C:\Users\reham\Downloads\Graduation_project\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\Users\reham\Downloads\Graduation_project\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reham\Downloads\Graduation_project\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\Users\reham\Downloads\Graduation_project\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\Users\reham\Downloads\Graduation_project\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\reham\Downloads\Graduation_project\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+C:\Users\reham\Downloads\Graduation_project\BLL\obj\Debug\net6.0\BLL.dll
+C:\Users\reham\Downloads\Graduation_project\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\Users\reham\Downloads\Graduation_project\BLL\obj\Debug\net6.0\BLL.pdb
+C:\Users\reham\Downloads\Graduation_project\BLL\obj\Debug\net6.0\ref\BLL.dll
+D:\route\API\Graduation_project\BLL\bin\Debug\net6.0\BLL.deps.json
+D:\route\API\Graduation_project\BLL\bin\Debug\net6.0\BLL.dll
+D:\route\API\Graduation_project\BLL\bin\Debug\net6.0\BLL.pdb
+D:\route\API\Graduation_project\BLL\bin\Debug\net6.0\DAL.dll
+D:\route\API\Graduation_project\BLL\bin\Debug\net6.0\DAL.pdb
+D:\route\API\Graduation_project\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+D:\route\API\Graduation_project\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\route\API\Graduation_project\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+D:\route\API\Graduation_project\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+D:\route\API\Graduation_project\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+D:\route\API\Graduation_project\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+D:\route\API\Graduation_project\BLL\obj\Debug\net6.0\BLL.dll
+D:\route\API\Graduation_project\BLL\obj\Debug\net6.0\refint\BLL.dll
+D:\route\API\Graduation_project\BLL\obj\Debug\net6.0\BLL.pdb
+D:\route\API\Graduation_project\BLL\obj\Debug\net6.0\ref\BLL.dll
+C:\Users\reham\Downloads\Telegram Desktop\Graduation_project (10)\Graduation_project\BLL\obj\Debug\net6.0\BLL.dll
+C:\Users\reham\Downloads\Telegram Desktop\Graduation_project (10)\Graduation_project\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\Users\reham\Downloads\Telegram Desktop\Graduation_project (10)\Graduation_project\BLL\obj\Debug\net6.0\BLL.pdb
+C:\Users\reham\Downloads\Telegram Desktop\Graduation_project (10)\Graduation_project\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\Users\reham\Downloads\Telegram Desktop\Graduation_project (10)\Graduation_project\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reham\Downloads\Telegram Desktop\Graduation_project (10)\Graduation_project\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\Users\reham\Downloads\Telegram Desktop\Graduation_project (10)\Graduation_project\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\Users\reham\Downloads\Telegram Desktop\Graduation_project (10)\Graduation_project\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\reham\Downloads\Telegram Desktop\Graduation_project (10)\Graduation_project\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\Users\reham\Downloads\Telegram Desktop\Graduation_project (10)\Graduation_project\BLL\bin\Debug\net6.0\BLL.dll
+C:\Users\reham\Downloads\Telegram Desktop\Graduation_project (10)\Graduation_project\BLL\bin\Debug\net6.0\BLL.pdb
+C:\Users\reham\Downloads\Telegram Desktop\Graduation_project (10)\Graduation_project\BLL\bin\Debug\net6.0\DAL.dll
+C:\Users\reham\Downloads\Telegram Desktop\Graduation_project (10)\Graduation_project\BLL\bin\Debug\net6.0\DAL.pdb
+C:\Users\reham\Downloads\Telegram Desktop\Graduation_project (10)\Graduation_project\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+C:\Users\reham\Downloads\Telegram Desktop\Graduation_project (10)\Graduation_project\BLL\obj\Debug\net6.0\ref\BLL.dll
+C:\Users\SAMAR ELGAMMAL\Documents\Graduation_project (10)\Graduation_project\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\Users\SAMAR ELGAMMAL\Documents\Graduation_project (10)\Graduation_project\BLL\bin\Debug\net6.0\BLL.dll
+C:\Users\SAMAR ELGAMMAL\Documents\Graduation_project (10)\Graduation_project\BLL\bin\Debug\net6.0\BLL.pdb
+C:\Users\SAMAR ELGAMMAL\Documents\Graduation_project (10)\Graduation_project\BLL\bin\Debug\net6.0\DAL.dll
+C:\Users\SAMAR ELGAMMAL\Documents\Graduation_project (10)\Graduation_project\BLL\bin\Debug\net6.0\DAL.pdb
+C:\Users\SAMAR ELGAMMAL\Documents\Graduation_project (10)\Graduation_project\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\Users\SAMAR ELGAMMAL\Documents\Graduation_project (10)\Graduation_project\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMAR ELGAMMAL\Documents\Graduation_project (10)\Graduation_project\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\Users\SAMAR ELGAMMAL\Documents\Graduation_project (10)\Graduation_project\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\Users\SAMAR ELGAMMAL\Documents\Graduation_project (10)\Graduation_project\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\SAMAR ELGAMMAL\Documents\Graduation_project (10)\Graduation_project\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+C:\Users\SAMAR ELGAMMAL\Documents\Graduation_project (10)\Graduation_project\BLL\obj\Debug\net6.0\BLL.dll
+C:\Users\SAMAR ELGAMMAL\Documents\Graduation_project (10)\Graduation_project\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\Users\SAMAR ELGAMMAL\Documents\Graduation_project (10)\Graduation_project\BLL\obj\Debug\net6.0\BLL.pdb
+C:\Users\SAMAR ELGAMMAL\Documents\Graduation_project (10)\Graduation_project\BLL\obj\Debug\net6.0\ref\BLL.dll

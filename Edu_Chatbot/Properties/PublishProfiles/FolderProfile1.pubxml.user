@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\route\Edu_Chatbot</_PublishTargetUrl>
+    <History>True|2023-06-21T23:09:58.3577038Z;True|2023-06-22T02:03:47.0039710+03:00;</History>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>workstation id=Edu_Chatbot.mssql.somee.com%3bpacket size=4096%3buser id=Samar_Algammal_SQLLogin_1%3bpwd=39c6hjf2ij%3bdata source=Edu_Chatbot.mssql.somee.com%3bpersist security info=False%3binitial catalog=Edu_Chatbot</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="DAL.EduChatbot_DB_Context">
+      <Value>workstation id=Edu_Chatbot.mssql.somee.com%3bpacket size=4096%3buser id=Samar_Algammal_SQLLogin_1%3bpwd=39c6hjf2ij%3bdata source=Edu_Chatbot.mssql.somee.com%3bpersist security info=False%3binitial catalog=Edu_Chatbot</Value>
+    </EFMigrations>
+    <EFMigrations Include="DAL.Entities.Identity.AppIdentityDbContext">
+      <Value>workstation id=Edu_Chatbot.mssql.somee.com%3bpacket size=4096%3buser id=Samar_Algammal_SQLLogin_1%3bpwd=39c6hjf2ij%3bdata source=Edu_Chatbot.mssql.somee.com%3bpersist security info=False%3binitial catalog=Edu_Chatbot</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

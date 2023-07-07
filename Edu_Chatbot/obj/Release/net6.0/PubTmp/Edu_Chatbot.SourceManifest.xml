@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="D:\route\API\Graduation_project\Edu_Chatbot\obj\Release\net6.0\PubTmp\Out\" />
+  <dbfullsql path="D:\route\API\Graduation_project\Edu_Chatbot\obj\Release\net6.0\PubTmp\EFSQLScripts\DAL.EduChatbot_DB_Context.sql" />
+  <dbfullsql path="D:\route\API\Graduation_project\Edu_Chatbot\obj\Release\net6.0\PubTmp\EFSQLScripts\DAL.Entities.Identity.AppIdentityDbContext.sql" />
+</sitemanifest>
